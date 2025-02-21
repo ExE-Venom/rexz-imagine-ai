@@ -25,6 +25,11 @@ async function main() {
 main();
 ```
 
+## Example Output
+![Generated Image 1](cropped_image.png)
+![Generated Image 2](cropped_image-1.png)
+![Generated Image 3](cropped_image-2.png)
+
 ## API
 ### `rexzimagine.response(prompt: string) => Promise<string>`
 Generates an image URL based on the given text prompt.
